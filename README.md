@@ -19,8 +19,8 @@ A Python- and PHP-based open-source project for automatically detecting and stor
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/orf-headline-tracker.git
-cd orf-headline-tracker
+git clone https://github.com/autootto69/headline-tracker.git
+cd headline-tracker
 ```
 
 ### 2. Install Python Dependencies
