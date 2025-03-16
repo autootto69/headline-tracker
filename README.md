@@ -161,7 +161,7 @@ This script generates an archive page for the previous month's headline changes.
   ```sh
   python3 checker.py
   ```
-- **Web Interface**: Open `index.php` to view changes.
+## **Web Interface**: Open `index.php` to view changes.
 
 ## Security
 - `.htaccess` blocks `.env` and `db_config.php`.
