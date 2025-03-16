@@ -128,10 +128,10 @@ DELIMITER ;
 ### 6. Create `db_config.php`
 ```php
 <?php
-$servername = "your-database-host";
-$username = "your-username";
-$password = "your-password";
-$dbname = "your-database-name";
+$DB_HOST = "your_server";
+$DB_USER = "your_user";
+$DB_PASSWORD = "your_password";
+$DB_NAME = "your_database";
 ?>
 ```
 
