@@ -154,14 +154,15 @@ Some hosting providers only allow PHP-based cron jobs.
 This script generates an archive page for the previous month's headline changes.
 ```sh
 1 0 1 * * /usr/bin/php /path/to/generate_archives.php >> /var/log/generate_archives.log 2>&1
-
+```
 ## Usage
 - **Automatic Execution**: `checker.py` runs via cron jobs.
 - **Manual Execution**:
   ```sh
   python3 checker.py
   ```
-## **Web Interface**: Open `index.php` to view changes.
+## **Web Interface**
+Open `index.php` to view changes.
 
 ## Security
 - `.htaccess` blocks `.env` and `db_config.php`.
