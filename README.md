@@ -1,6 +1,4 @@
-# headline-tracker
-Tracks headline-changes on Austria's public broadcasting news website
-# ORF Headline Tracker
+# Headline Tracker
 
 A Python- and PHP-based open-source project for automatically detecting and storing changes to headlines on Austria's public broadcasting  website ([news.orf.at](https://news.orf.at)).
 
