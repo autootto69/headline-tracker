@@ -47,7 +47,7 @@ So funktioniert verworfen.at:
     <li><strong>Einschränkungen:</strong> Da ausschließlich die öffentlich sichtbaren Überschriften auf der ORF-Startseite analysiert werden, können Änderungen innerhalb von Artikeln oder auf Unterseiten nicht erfasst werden. Es kann vorkommen, dass die auf der Startseite verlinkten Artikeln andere Überschriften aufweisen als der Beitragstitel auf der Übersichtsseite. Zudem ist nicht ausgeschlossen, dass sich technische Änderungen auf ORF.at auf die Erfassungsmethode auswirken.</li>
 </ul>
 <br>
-<strong>verworfen.at befindet sich noch in der Testphase und Details der Erhebungsmethode können sich ändern.</strong> Nach Abschluss des Debuggings soll der Code als Open-Source-Projekt auf GitHub veröffentlicht werden. Wenn Sie Fehler finden oder Verbesserungsvorschläge haben, <a href="mailto:jcz@jczeller.com">nehmen Sie bitte Kontakt auf</a>.
+<strong>verworfen.at ist ein Open Source Projekt und Sie können den Quellcode bei <a href="https://github.com/autootto69/headline-tracker/" title="Quellcode bei GitHub" target="_blank">GitHub</a> einsehen.</strong> Wenn Sie Fehler finden oder Verbesserungsvorschläge haben, <a href="mailto:jcz@jczeller.com">nehmen Sie bitte Kontakt auf</a>.
 <br><br>
 <a href="index.php">Zurück zur Startseite</a>
 

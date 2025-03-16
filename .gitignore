@@ -12,3 +12,6 @@ __pycache__/
 
 # Python-Modules ausschließen
 python-modules/
+
+# Bilder ausschließen
+og-image.png

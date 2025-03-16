@@ -134,7 +134,10 @@ $total_changes = $row_total['total_changes'];
 
 <!-- Footer -->
 <footer style="margin-top: 40px; font-size: 14px; color: #555; text-align: center;">
-    <p><a href="methode.php">Erhebungsmethode</a></p>
+    <p><a href="methode.php">Erhebungsmethode</a><br><br>
+	<a href="https://github.com/autootto69/headline-tracker/" target="_blank" title="Source Code bei GitHub">GitHub</a></p>
+	</p>
+	
 	<strong>verworfen.at</strong> ist ein unabhängiges, unkommerzielles und ehrenamtliches Projekt für Medientransparenz und <b>steht in keinerlei Verbindung zum österreichischen Rundfunk (ORF)</b>. 
     <a href="about.php">Über den Initiator.</a></p>
     <p><strong>Erklärung zum Datenschutz:</strong> Diese Website setzt kein Tracking ein, speichert keine Cookies oder persönlichen Daten und nutzt keine Analysetools.</p>
