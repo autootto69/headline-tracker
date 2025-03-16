@@ -1,0 +1,9 @@
+<Files ".env">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "db_config.php">
+    Order allow,deny
+    Deny from all
+</Files>

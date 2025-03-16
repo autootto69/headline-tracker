@@ -1,0 +1,14 @@
+# Sensible Daten
+.env
+db_config.php
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE-spezifische Dateien
+.vscode/
+.idea/
+.DS_Store
+
+# Python-Modules ausschließen
+python-modules/
